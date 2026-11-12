@@ -202,4 +202,4 @@ This repository serves as the official landing page for ExitLag. The software is
 **Get the most recent version of ExitLag today!**
 
 ---
-**Last updated:** 2026-11-11 23:18:10 UTC
+**Last updated:** 2026-11-12 05:50:19 UTC
